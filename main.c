@@ -32,9 +32,8 @@ int main(int argc, const char * argv[]) {
     printf("\n\n\n\n\n ");
     printf("\tENSIAS\t\t\t\t\t2015/2016\n");
     printf("\t \t Projet: Gestion des formateurs. Réalisé par :");
-    printf("\n\n\t\t\t FARADI Manar");
     printf("\n\t\t\t IBN SEDDIK Abderrahmane");
-    printf("\n\n\t\t\t\t Encadré par Mme BERRADA Bouchra");
+
 
     
 
